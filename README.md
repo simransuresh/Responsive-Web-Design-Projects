@@ -1,5 +1,7 @@
 # Responsive-Web-Design-Projects
 
+Project timeline: October 2020
+
 Multiple responsive web design projects learnt from FreeCodeCamp and completed for Responsive Web Design certification. 
 
 Pure HTML and CSS
